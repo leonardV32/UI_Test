@@ -1,0 +1,33 @@
+{
+    "name": "SpaceControls",
+    "maps": [
+        {
+            "name": "Main",
+            "id": "adea4557-002d-40d9-b5d2-b45fa18f26c9",
+            "actions": [
+                {
+                    "name": "Appear",
+                    "type": "Button",
+                    "id": "e8a99999-bad1-47be-9485-4aee1bc641f8",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "70d1ceb5-e1ba-495c-a0d6-de8702350135",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Appear",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
